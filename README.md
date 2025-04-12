@@ -58,7 +58,8 @@
 
 ### 🐍 Watch My Contribution Snake
 
-![Snake animation](https://github.com/shyam-dev30/shyam-dev30/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/shyam-dev30/shyam-dev30/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
